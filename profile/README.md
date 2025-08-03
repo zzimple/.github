@@ -4,6 +4,13 @@
 - ⏳ **진행 기간**: 2025.02.17 ~ 2025.07.01  
 - 🏢 **참여 기업**: 헥토 (멘토링 제공)
 
+## 👨‍👩‍👧‍👦 구성원
+
+| Name | Role | GitHub |
+|------|------|--------|
+| duswp | Front-End Developer | [@duswp](https://github.com/duswp) |
+| chaeelin | Full-Stack Developer | [@chaeelin](https://github.com/chaeelin) |
+
 <br>
 
 ## 📝 개요  
