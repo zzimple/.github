@@ -8,8 +8,8 @@
 
 | Name | Role | GitHub |
 |------|------|--------|
-| duswp | Front-End Developer | [@duswp](https://github.com/duswp) |
-| chaeelin | Full-Stack Developer | [@chaeelin](https://github.com/chaeelin) |
+| 조연제 | Front-End Developer | [@duswp](https://github.com/duswp) |
+| 김채린 | Full-Stack Developer | [@chaeelin](https://github.com/chaeelin) |
 
 <br>
 
