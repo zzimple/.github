@@ -40,6 +40,18 @@ Spring Boot 백엔드와 React 프론트엔드를 연동한 **이사 플랫폼 �
                                                                                                                                                         
 ## 🛠 기술 스택
 
+## 💻 Front-End Stack
+
+| Category              | Tech Stack |
+|-----------------------|------------|
+| **Language**          | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Framework / Library** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Styling**           | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Version Control**   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Deploy**            | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+
+## 💻 Back-End Stack
+
 | **Category**  | **Tech** |
 |---------------|----------|
 | **Language**  | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> |
